@@ -1,0 +1,27 @@
+/* Write your code here */
+.bg-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/reviews-bg.png');
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.btn {
+  background-color: transparent;
+  border: none;
+}
+.review-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 700px;
+}
+.name {
+  color: #ffffff;
+  font-weight: bold;
+  font-family: 'Roboto';
+}
+.prg {
+  text-align: center;
+}
